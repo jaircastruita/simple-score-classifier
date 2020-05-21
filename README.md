@@ -1,1 +1,1 @@
-# simple-score-classifier
+# A simple score classifier
