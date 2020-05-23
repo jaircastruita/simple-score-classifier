@@ -72,7 +72,7 @@ Donde:
 
 <img src="https://render.githubusercontent.com/render/math?math=S\left ( X \right ) =  ln\frac{P\left ( C \mid X_i \right )}{P\left ( \bar{C} \mid X_i \right )} = ln\frac{\frac{N_{cx_i}}{N_c}}{\frac{N_{\bar{c}x_i}}{N_{\bar{c}}}}">
 
-Un valor alto en $S$ indica una alta probabilidad de pertenecer a la clase <img src="https://render.githubusercontent.com/render/math?math=C">
+Un valor alto en <img src="https://render.githubusercontent.com/render/math?math=S"> indica una alta probabilidad de pertenecer a la clase <img src="https://render.githubusercontent.com/render/math?math=C">
 
 ## Suavizado de Laplace
 
