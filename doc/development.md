@@ -1,6 +1,6 @@
 ## Definición de términos
 
-Los encuestados representan una medida muestral $N$ de la población de la que se desea obtener información. Para la muestra es de interés notar aquellas observaciones $n$ en donde esté presente la condición $C$ de la que se desea conocer una relación, donde $\textbf{C ='Lenin Moreno'}$. En este caso $X$ es una respuesta que puede estar presente en la población encuestada $N_x$:
+Los encuestados representan una medida muestral <img src="https://render.githubusercontent.com/render/math?math=N"> de la población de la que se desea obtener información. Para la muestra es de interés notar aquellas observaciones <img src="https://render.githubusercontent.com/render/math?math=n"> en donde esté presente la condición <img src="https://render.githubusercontent.com/render/math?math=C"> de la que se desea conocer una relación, donde <img src="https://render.githubusercontent.com/render/math?math=\textbf{C ='Lenin Moreno'}">. En este caso <img src="https://render.githubusercontent.com/render/math?math=X"> es una respuesta que puede estar presente en la población encuestada <img src="https://render.githubusercontent.com/render/math?math=N_x">:
 
 
 <img src="https://render.githubusercontent.com/render/math?math=\left ( N \bigcap X \right )">
