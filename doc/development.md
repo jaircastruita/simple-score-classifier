@@ -3,7 +3,7 @@
 Los encuestados representan una medida muestral $N$ de la población de la que se desea obtener información. Para la muestra es de interés notar aquellas observaciones $n$ en donde esté presente la condición $C$ de la que se desea conocer una relación, donde $\textbf{C ='Lenin Moreno'}$. En este caso $X$ es una respuesta que puede estar presente en la población encuestada $N_x$:
 
 
-$$\left ( N \bigcap X \right )$$
+<img src="https://render.githubusercontent.com/render/math?math=$$\left ( N \bigcap X \right )$$">
 
 Por otro lado, las observaciones donde se encuentra presente la condición $C$ se define como $N_c$ y se interpreta como:
 
